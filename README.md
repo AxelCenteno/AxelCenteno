@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Axel Centeno</h1>
-<h3 align="center">A Mechatronics Engineering student</h3>
+<h3 align="center">A Mechatronics Engineering student at [Instituto Politécnico Nacional](https://www.ipn.mx/).</h3>
 
 
 
