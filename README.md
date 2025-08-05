@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, I'm Axel Centeno</h1>
 
-* Mechatronics Engineering student at [Instituto Politécnico Nacional](https://www.ipn.mx/)
-* Member of Mexcellence programm at [Bosch](https://www.bosch.com.mx/)
+* 📝 Mechatronics Engineering student at [Instituto Politécnico Nacional](https://www.ipn.mx/)
+* 🦾 Member of Mexcellence programm at [Bosch](https://www.bosch.com.mx/)
+* 💻 Digital Customer Service Intern in Unilever Mexico [Unilever](https://www.unilever.com.mx/)
 
 
 
